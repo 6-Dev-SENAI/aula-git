@@ -1,1 +1,22 @@
-    
+#body{
+    background-image: linear-gradient(45deg, white, rgb(7, 7, 65));
+   
+}
+
+div.aa{
+    text-align: center;
+}
+
+div.bb{
+    font-size: 22px;
+}
+
+div.cc{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+div.dd{
+    padding-left: 20px;
+    font-size: 20px;
+}
